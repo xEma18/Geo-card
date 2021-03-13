@@ -1,0 +1,18 @@
+{
+  "name": "geocoding-card",
+  "version": "1.0.0",
+  "description": "A very simple web app based on a geo API",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Emanuele Di Giacomo",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
