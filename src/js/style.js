@@ -24,7 +24,6 @@ const spinner = `
     <div></div>
     <div></div>
     <div></div>
-    </div>
 </div>`;
 
 // Render functions
